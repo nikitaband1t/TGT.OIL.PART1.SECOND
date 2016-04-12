@@ -5,7 +5,12 @@
 #ifndef SECOND_SEQUENCEARG_H
 #define SECOND_SEQUENCEARG_H
 
-
+/*SequenceArg is arg which
+ * Two variables function
+ * I didnt extend this class
+ * because i had well explained
+ * propose and i didnt use
+ * c++ template for amount of variables*/
 class SequenceArg {
         double x1;
         double x2;
